@@ -1,0 +1,6 @@
+[package]
+name = "jogo_da_velha"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
